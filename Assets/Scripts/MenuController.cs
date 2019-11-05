@@ -55,7 +55,7 @@ public class MenuController : MonoBehaviour
 
     public void goToGame()
     {
-        SceneManager.LoadScene("Game");
+        SceneManager.LoadScene("Room");
     }
 
     public void quit()
