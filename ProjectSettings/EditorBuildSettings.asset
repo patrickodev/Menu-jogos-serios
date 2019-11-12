@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Room.unity
     guid: c701afc784f4bba44a22c51c7a758d9c
+  - enabled: 1
+    path: Assets/Scenes/Computer.unity
+    guid: 5d5238a6086ba7a44b0fa5cee1a6f4c7
+  - enabled: 1
+    path: Assets/Scenes/Door.unity
+    guid: 160948ef7207399438c2465e4075fba8
+  - enabled: 1
+    path: Assets/Scenes/Urna.unity
+    guid: 7cb1e294b94edf048b25a6769f45afe5
   m_configObjects: {}
