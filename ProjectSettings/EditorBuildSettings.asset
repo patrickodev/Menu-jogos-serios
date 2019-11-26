@@ -21,6 +21,27 @@ EditorBuildSettings:
     path: Assets/Scenes/Door.unity
     guid: 160948ef7207399438c2465e4075fba8
   - enabled: 1
+    path: Assets/Scenes/Door2.unity
+    guid: 134dd77647b007f4ba1a1b2458b0c62c
+  - enabled: 1
     path: Assets/Scenes/Urna.unity
     guid: 7cb1e294b94edf048b25a6769f45afe5
+  - enabled: 1
+    path: Assets/Scenes/Urna 1.unity
+    guid: c3b2c04193d780a4ab48fb9f0534ec16
+  - enabled: 1
+    path: Assets/Scenes/Urna 2.unity
+    guid: 492df9737d4f75a40a6bb8a5b2eaf81b
+  - enabled: 1
+    path: Assets/Scenes/Candidato1.unity
+    guid: 42ab35c9f3cf2724bb6c62ff7a82b712
+  - enabled: 1
+    path: Assets/Scenes/Candidato2.unity
+    guid: 4da03a42eda68554d8cf61e866c3c11b
+  - enabled: 1
+    path: Assets/Scenes/Posto.unity
+    guid: a504bad8582938e47b2b13ed6e5cb3c3
+  - enabled: 1
+    path: Assets/Scenes/ObraInacabada.unity
+    guid: 2a1420dae145b3c4bb123cbc6dcfe579
   m_configObjects: {}
