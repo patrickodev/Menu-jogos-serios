@@ -785,7 +785,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "\"Aquele candidato falou mesmo a verdade, pelo que constatei ele construiu
-    mesmo v\xE1rios postos de sa\xFAde dentro da nossa cidade.\""
+    v\xE1rios postos de sa\xFAde dentro da nossa cidade.\""
 --- !u!222 &1792014181
 CanvasRenderer:
   m_ObjectHideFlags: 0

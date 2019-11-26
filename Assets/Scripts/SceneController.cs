@@ -77,12 +77,21 @@ public class SceneController : MonoBehaviour
         SceneManager.LoadScene("Posto");
     }
 
-    public void verificadorDeFinal()
+    public void Confirma1()
     {
         if (Data.VerificadorPesquisa > 0)
-        {
-            
-        }
+            SceneManager.LoadScene("Confirma1");
+        else
+            SceneManager.LoadScene("Confirma3");
     }
+
+    public void Confirma2()
+    {
+        if (Data.VerificadorPesquisa > 0)
+            SceneManager.LoadScene("Confirma2");
+        else
+            SceneManager.LoadScene("Confirma3");
+    }
+
 
 }

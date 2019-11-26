@@ -44,4 +44,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ObraInacabada.unity
     guid: 2a1420dae145b3c4bb123cbc6dcfe579
+  - enabled: 1
+    path: Assets/Scenes/Confirma2.unity
+    guid: 6c86433fd6bcefa4da251d5e2e840ff0
+  - enabled: 1
+    path: Assets/Scenes/Confirma1.unity
+    guid: 48a10e30ace5a80419fab9875731f02b
+  - enabled: 1
+    path: Assets/Scenes/Confirma3.unity
+    guid: af1c49f5e5add8c4682710640250f1b7
   m_configObjects: {}
